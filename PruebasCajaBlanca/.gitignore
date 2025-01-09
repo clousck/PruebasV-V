@@ -1,6 +1,0 @@
-# Ignorar htmlcov
-htmlcov/
-
-# Ignorar pycache
-__pycache__/
-
