@@ -1,0 +1,60 @@
+pruebas-caja-blanca/htmlcov/
+pruebas-caja-blanca/__pycache__/
+pruebas-caja-blanca/.coverage
+
+pruebas-caja-negra/# compiled output
+pruebas-caja-negra//dist
+pruebas-caja-negra//node_modules
+pruebas-caja-negra//build
+pruebas-caja-negra/
+pruebas-caja-negra/# Logs
+pruebas-caja-negra/logs
+pruebas-caja-negra/*.log
+pruebas-caja-negra/npm-debug.log*
+pruebas-caja-negra/pnpm-debug.log*
+pruebas-caja-negra/yarn-debug.log*
+pruebas-caja-negra/yarn-error.log*
+pruebas-caja-negra/lerna-debug.log*
+pruebas-caja-negra/
+pruebas-caja-negra/# OS
+pruebas-caja-negra/.DS_Store
+pruebas-caja-negra/
+pruebas-caja-negra/# Tests
+pruebas-caja-negra//coverage
+pruebas-caja-negra//.nyc_output
+pruebas-caja-negra/
+pruebas-caja-negra/# IDEs and editors
+pruebas-caja-negra//.idea
+pruebas-caja-negra/.project
+pruebas-caja-negra/.classpath
+pruebas-caja-negra/.c9/
+pruebas-caja-negra/*.launch
+pruebas-caja-negra/.settings/
+pruebas-caja-negra/*.sublime-workspace
+pruebas-caja-negra/
+pruebas-caja-negra/# IDE - VSCode
+pruebas-caja-negra/.vscode/*
+pruebas-caja-negra/!.vscode/settings.json
+pruebas-caja-negra/!.vscode/tasks.json
+pruebas-caja-negra/!.vscode/launch.json
+pruebas-caja-negra/!.vscode/extensions.json
+pruebas-caja-negra/
+pruebas-caja-negra/# dotenv environment variable files
+pruebas-caja-negra/.env
+pruebas-caja-negra/.env.development.local
+pruebas-caja-negra/.env.test.local
+pruebas-caja-negra/.env.production.local
+pruebas-caja-negra/.env.local
+pruebas-caja-negra/
+pruebas-caja-negra/# temp directory
+pruebas-caja-negra/.temp
+pruebas-caja-negra/.tmp
+pruebas-caja-negra/
+pruebas-caja-negra/# Runtime data
+pruebas-caja-negra/pids
+pruebas-caja-negra/*.pid
+pruebas-caja-negra/*.seed
+pruebas-caja-negra/*.pid.lock
+pruebas-caja-negra/
+pruebas-caja-negra/# Diagnostic reports (https://nodejs.org/api/report.html)
+pruebas-caja-negra/report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
